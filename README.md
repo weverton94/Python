@@ -1,2 +1,2 @@
 # Python
-Repositório da evolução na aprendizagem de Python.
+Repositório da evolução na aprendizagem de Python.💻✈️
